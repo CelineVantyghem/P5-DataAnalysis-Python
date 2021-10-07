@@ -1,5 +1,5 @@
 # P5-DataAnalysis-Python
-P5-Data Analysis-Python-Jupyter Notebook
+P5-Data Analysis-KPI-Python-Jupyter Notebook
 
 Optimisez la gestion des données d'une boutique avec R ou Python
 
